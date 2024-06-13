@@ -13,7 +13,9 @@
         :key="teacher.id"
         class="mb-2 border rounded shadow sm p-4 bg-white hover:bg-gray-100"
       >
-        <div class="p-4 border rounded shadow-sm bg-gray-100 sm:p-6 sm:pb-4 sm:mb-4 sm:mb-0 sm:border-0 sm:shadow-none">
+        <div
+          class="p-4 border rounded shadow-sm bg-gray-100 sm:p-6 sm:pb-4 sm:mb-4 sm:mb-0 sm:border-0 sm:shadow-none"
+        >
           <h2 class="text-xl font-semibold mb-2 text-gray-800">
             {{ "Proffessor: " + teacher.name }}
           </h2>

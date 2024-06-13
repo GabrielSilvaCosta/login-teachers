@@ -1,0 +1,69 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`TeacherList > renders properly 1`] = `
+"<div data-v-8ed5781d="" class="teacher-list p-4 bg-gray-100 sm:p-8 rounded-lg shadow-lg w-full max-w-sm mx-auto mt-10 sm:mt-0">
+  <h1 data-v-8ed5781d="" class="text-2xl font-bold mb-4 text-center text-gray-800 upperacse sm:text-3xl sm:mb-6"> Lista de Professores </h1>
+  <ul data-v-8ed5781d="">
+    <li data-v-8ed5781d="" class="mb-2 border rounded shadow sm p-4 bg-white hover:bg-gray-100">
+      <div data-v-8ed5781d="" class="p-4 border rounded shadow-sm bg-gray-100 sm:p-6 sm:pb-4 sm:mb-4 sm:mb-0 sm:border-0 sm:shadow-none">
+        <h2 data-v-8ed5781d="" class="text-xl font-semibold mb-2 text-gray-800">Proffessor: Homer Kutch</h2>
+        <p data-v-8ed5781d="">Disciplina: Shoes</p>
+      </div>
+    </li>
+    <li data-v-8ed5781d="" class="mb-2 border rounded shadow sm p-4 bg-white hover:bg-gray-100">
+      <div data-v-8ed5781d="" class="p-4 border rounded shadow-sm bg-gray-100 sm:p-6 sm:pb-4 sm:mb-4 sm:mb-0 sm:border-0 sm:shadow-none">
+        <h2 data-v-8ed5781d="" class="text-xl font-semibold mb-2 text-gray-800">Proffessor: Juana Christiansen</h2>
+        <p data-v-8ed5781d="">Disciplina: Tools</p>
+      </div>
+    </li>
+    <li data-v-8ed5781d="" class="mb-2 border rounded shadow sm p-4 bg-white hover:bg-gray-100">
+      <div data-v-8ed5781d="" class="p-4 border rounded shadow-sm bg-gray-100 sm:p-6 sm:pb-4 sm:mb-4 sm:mb-0 sm:border-0 sm:shadow-none">
+        <h2 data-v-8ed5781d="" class="text-xl font-semibold mb-2 text-gray-800">Proffessor: Julio Schinner-Breitenberg IV</h2>
+        <p data-v-8ed5781d="">Disciplina: Baby</p>
+      </div>
+    </li>
+    <li data-v-8ed5781d="" class="mb-2 border rounded shadow sm p-4 bg-white hover:bg-gray-100">
+      <div data-v-8ed5781d="" class="p-4 border rounded shadow-sm bg-gray-100 sm:p-6 sm:pb-4 sm:mb-4 sm:mb-0 sm:border-0 sm:shadow-none">
+        <h2 data-v-8ed5781d="" class="text-xl font-semibold mb-2 text-gray-800">Proffessor: James Haley</h2>
+        <p data-v-8ed5781d="">Disciplina: Industrial</p>
+      </div>
+    </li>
+    <li data-v-8ed5781d="" class="mb-2 border rounded shadow sm p-4 bg-white hover:bg-gray-100">
+      <div data-v-8ed5781d="" class="p-4 border rounded shadow-sm bg-gray-100 sm:p-6 sm:pb-4 sm:mb-4 sm:mb-0 sm:border-0 sm:shadow-none">
+        <h2 data-v-8ed5781d="" class="text-xl font-semibold mb-2 text-gray-800">Proffessor: Mandy Howell</h2>
+        <p data-v-8ed5781d="">Disciplina: Computers</p>
+      </div>
+    </li>
+    <li data-v-8ed5781d="" class="mb-2 border rounded shadow sm p-4 bg-white hover:bg-gray-100">
+      <div data-v-8ed5781d="" class="p-4 border rounded shadow-sm bg-gray-100 sm:p-6 sm:pb-4 sm:mb-4 sm:mb-0 sm:border-0 sm:shadow-none">
+        <h2 data-v-8ed5781d="" class="text-xl font-semibold mb-2 text-gray-800">Proffessor: Rochelle Romaguera</h2>
+        <p data-v-8ed5781d="">Disciplina: Home</p>
+      </div>
+    </li>
+    <li data-v-8ed5781d="" class="mb-2 border rounded shadow sm p-4 bg-white hover:bg-gray-100">
+      <div data-v-8ed5781d="" class="p-4 border rounded shadow-sm bg-gray-100 sm:p-6 sm:pb-4 sm:mb-4 sm:mb-0 sm:border-0 sm:shadow-none">
+        <h2 data-v-8ed5781d="" class="text-xl font-semibold mb-2 text-gray-800">Proffessor: Mr. Roosevelt Gusikowski</h2>
+        <p data-v-8ed5781d="">Disciplina: Computers</p>
+      </div>
+    </li>
+    <li data-v-8ed5781d="" class="mb-2 border rounded shadow sm p-4 bg-white hover:bg-gray-100">
+      <div data-v-8ed5781d="" class="p-4 border rounded shadow-sm bg-gray-100 sm:p-6 sm:pb-4 sm:mb-4 sm:mb-0 sm:border-0 sm:shadow-none">
+        <h2 data-v-8ed5781d="" class="text-xl font-semibold mb-2 text-gray-800">Proffessor: Mr. Randy Wisoky</h2>
+        <p data-v-8ed5781d="">Disciplina: Beauty</p>
+      </div>
+    </li>
+    <li data-v-8ed5781d="" class="mb-2 border rounded shadow sm p-4 bg-white hover:bg-gray-100">
+      <div data-v-8ed5781d="" class="p-4 border rounded shadow-sm bg-gray-100 sm:p-6 sm:pb-4 sm:mb-4 sm:mb-0 sm:border-0 sm:shadow-none">
+        <h2 data-v-8ed5781d="" class="text-xl font-semibold mb-2 text-gray-800">Proffessor: Nina Paucek</h2>
+        <p data-v-8ed5781d="">Disciplina: Outdoors</p>
+      </div>
+    </li>
+    <li data-v-8ed5781d="" class="mb-2 border rounded shadow sm p-4 bg-white hover:bg-gray-100">
+      <div data-v-8ed5781d="" class="p-4 border rounded shadow-sm bg-gray-100 sm:p-6 sm:pb-4 sm:mb-4 sm:mb-0 sm:border-0 sm:shadow-none">
+        <h2 data-v-8ed5781d="" class="text-xl font-semibold mb-2 text-gray-800">Proffessor: Charlotte Osinski</h2>
+        <p data-v-8ed5781d="">Disciplina: Games</p>
+      </div>
+    </li>
+  </ul>
+</div>"
+`;

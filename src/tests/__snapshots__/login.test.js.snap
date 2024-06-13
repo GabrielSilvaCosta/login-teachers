@@ -13,3 +13,15 @@ exports[`Login > renders properly 1`] = `
   </form>
 </div>"
 `;
+
+exports[`Login > submit a invalid form 1`] = `{}`;
+
+exports[`Login > submits form 1`] = `{}`;
+
+exports[`Login > validates email 1`] = `{}`;
+
+exports[`Login > validates password 1`] = `{}`;
+
+exports[`redirects to a teacher rota 1`] = `{}`;
+
+exports[`redirects to a teacher route 1`] = `{}`;
