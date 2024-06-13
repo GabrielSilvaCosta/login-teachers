@@ -16,5 +16,15 @@ export default defineConfig({
     postcss: {
       plugins: [tailwindcss, autoprefixer],
     },
+    test: {
+      globals: true,
+      environment: "happy-dom",
+      include: ["**/*.{test,spec}.{js,ts,jsx,tsx}"],
+
+      coverage: {
+        provider: "v8",
+        reporter: ["text", "json", "html"],
+      },
+    },
   },
 });
